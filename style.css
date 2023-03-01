@@ -1,0 +1,53 @@
+body{
+  font-family: 'Poppins', sans-serif;
+}
+/* clases generales */
+.article-content{
+  font-size: 16px;
+  font-weight: 400;
+  color:rgba(52, 69, 99, 1);  
+}
+.article-title{
+  font-size: 40px;
+  font-weight: 700;
+  color: rgba(9, 30, 66, 1);  
+}
+/* header */
+header a{
+  font-weight: 700;
+  font-size: 18px;
+}
+.nav li a{
+  font-weight: 500;
+  font-size: 15px;
+}
+/* main */
+main{
+  background-image: url(./assets/Header\ bg.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  
+}
+main > .container{
+  height: 721px;  
+}
+.main-content{
+  max-width: 920px;
+}
+.main-content h1{
+  font-size: 48px;
+}
+.main-content h5{
+  font-size: 16px;
+  font-weight: 500;
+  color: rgba(127, 140, 255, 1);
+}
+
+
+
+
+.c,
+.c *{
+  border: 1px solid black;
+}
