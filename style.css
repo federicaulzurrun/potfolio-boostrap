@@ -2,6 +2,10 @@ body{
   font-family: 'Poppins', sans-serif;
 }
 /* clases generales */
+
+
+
+
 .article-content{
   font-size: 16px;
   font-weight: 400;
@@ -44,7 +48,40 @@ main > .container{
   color: rgba(127, 140, 255, 1);
 }
 
-/* section */
+
+              /* section cards works */
+
+.works-cont{
+  min-width: 1156px;
+}
+
+.works{ 
+  background-color: #f4f5f7 ;
+  padding: 100px;  
+}
+
+.card{
+  max-width: 1200px;
+}
+
+.card-mayus{
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 18px;
+  color: rgba(52, 69, 99, 1);
+}
+
+.card-back-end{
+  color: rgba(107, 119, 140, 1);
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.card-img-top{  
+  width: 100%;
+  height: auto;
+  max-width: 500px;
+}
 
 .list {
   display: flex;
@@ -53,6 +90,36 @@ main > .container{
 
 .card-img-top {
   padding: 12px;
+}
+
+.card-text{
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.card-body p{  
+  margin: 0;
+  
+}
+
+.card-list-tech{
+ background-color: rgba(235, 235, 255, 1);
+ font-size: 12px;
+ padding: 4px 12px;
+ font-weight: 500; 
+ border-radius: 8px;
+ margin-right: 8px !important;
+ color: rgba(96, 112, 255, 1);
+}
+
+.card-body .list{
+  height: auto;
+  gap:12px ;  
+}
+
+.btn-primary{
+  background-color: white;
+  color: rgba(57, 109, 242, 1);
 }
 
 
