@@ -44,6 +44,16 @@ main > .container{
   color: rgba(127, 140, 255, 1);
 }
 
+/* section */
+
+.list {
+  display: flex;
+  flex-direction: row;
+}
+
+.card-img-top {
+  padding: 12px;
+}
 
 
 
