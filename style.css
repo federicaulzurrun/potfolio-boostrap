@@ -27,6 +27,16 @@ header a {
   font-size: 18px;
 }
 
+.hero-content a {
+  text-decoration: none;
+}
+
+.hero-content > a {
+  color: rgba(127, 140, 255, 1);
+  font-size: 16px;
+  font-weight: 500;
+}
+
 .nav li a {
   font-weight: 500;
   font-size: 15px;
@@ -141,10 +151,6 @@ li {
   list-style: none;
 }
 
-.hero-content a {
-  text-decoration: none;
-}
-
 .hero {
   background-image: url("./assets/header-shapes\ mobile@2x.svg");
   background-repeat: no-repeat;
@@ -166,12 +172,6 @@ li {
   padding: 0 1.5rem 1px 1.5rem;
   flex-direction: column;
   justify-content: center;
-}
-
-.hero-content > a {
-  color: rgba(127, 140, 255, 1);
-  font-size: 16px;
-  font-weight: 500;
 }
 
 .separete-items-down,
