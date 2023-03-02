@@ -107,9 +107,9 @@ Install this project linters: *do not change the any config file in any way*    
 
 👤 **Mariano Benjamin**
 
-- GitHub: [@benja27](https://github.com/federicaulzurrun)
-- Twitter: [@rksnek7](https://mobile.twitter.com/ulzurrunfede)
-- LinkedIn: [Mariano Benjamin](https://www.linkedin.com/in/federica-ulzurrun-293a86198)
+- GitHub: [@githubhandle](https://github.com/benja27)
+- Twitter: [@twitterhandle](https://twitter.com/@rksne123)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/mariano-benjamin-mendez-garcia-a50856177)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
